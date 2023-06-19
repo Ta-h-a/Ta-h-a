@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Mohammed Taha, a full-stack freelance developer 🚀</div>  
