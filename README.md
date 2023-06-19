@@ -1,6 +1,4 @@
-### Hi there 👋
   
-
 ### <div align="center">I'm Mohammed Taha, a full-stack freelance developer 🚀</div>  
   
 
