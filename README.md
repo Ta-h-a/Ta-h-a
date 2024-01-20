@@ -2,13 +2,13 @@
 ### <div align="center">I'm Mohammed Taha, a full-stack freelance developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Data Structures College Project](https://github.com/Ta-h-a/Data-Structures-College-Projecty)  
+- 🔭 I’m currently working on [Cipher Convo](https://github.com/Ta-h-a/CipherConvo/)  
   
 
-- 🌱 I’m currently learning React JS and Authentication  
+- 🌱 I’m currently learning Advance React and Typescript  
   
 
-- ❓ Ask me about anything related to MERN stack  
+- ❓ Ask me about anything related to Full Stack and DevOps  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
