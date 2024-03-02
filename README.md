@@ -88,8 +88,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ta-h-a/ta-h-a/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
